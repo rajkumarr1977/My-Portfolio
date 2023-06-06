@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am working a Data Analysis Specialist
+👀 I'm interested in Data and Business Analytics
+
+🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI and Tableau for data querrying, manipulation and visualization
 
 
 ## 🌐 Socials:
